@@ -11,7 +11,7 @@
 
 Ex: 
 bot = chatbot();
-message //假設為取得的使用者輸入型態為str
+message //假設為取得的使用者輸入型態為str　
 bot.chat_bot_response(message) //根據使用者輸入，取得回應
 
 而機器人的server是使用heroku，在資料夾有個heroku的目錄，引用了網路上的教學，可以參考
